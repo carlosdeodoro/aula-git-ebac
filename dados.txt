@@ -1,0 +1,13 @@
+Dados do aluno
+
+Dados do aluno
+
+-Primeiro Nome: Carlos
+-Profissão: Suporte TI
+-Cidade: Governador Valadares
+-O que faz nas horas vaga: Estudo e fico com a família
+-Feedback sobre o curso Qualidade de Software: Esta muito bom, muito conteúdo com prática
+-Feedback sobre a plataforma de estudo da EBAC: Sem problemas para assitir as aulas, as vezes tem um delay de conclusão para liberar os novos conteúdos
+
+Obrigado!!!
+
